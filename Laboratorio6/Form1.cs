@@ -15,6 +15,8 @@ namespace Laboratorio6
         public Form1()
         {
             InitializeComponent();
+            this.BackgroundImage = Properties.Resources.Fondo6;
+            this.BackgroundImageLayout = ImageLayout.Stretch;
         }
     }
 }

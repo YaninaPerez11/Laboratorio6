@@ -45,7 +45,7 @@
             // 
             this.btnEliminar.BackColor = System.Drawing.Color.Salmon;
             this.btnEliminar.Font = new System.Drawing.Font("Segoe Print", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEliminar.Location = new System.Drawing.Point(796, 597);
+            this.btnEliminar.Location = new System.Drawing.Point(797, 632);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(131, 52);
             this.btnEliminar.TabIndex = 12;
@@ -56,7 +56,7 @@
             // 
             this.btnAgregarLibro.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.btnAgregarLibro.Font = new System.Drawing.Font("Segoe Print", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregarLibro.Location = new System.Drawing.Point(87, 597);
+            this.btnAgregarLibro.Location = new System.Drawing.Point(88, 632);
             this.btnAgregarLibro.Name = "btnAgregarLibro";
             this.btnAgregarLibro.Size = new System.Drawing.Size(124, 52);
             this.btnAgregarLibro.TabIndex = 10;
@@ -69,7 +69,7 @@
             this.dgvLibros.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvLibros.BackgroundColor = System.Drawing.Color.Gainsboro;
             this.dgvLibros.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvLibros.Location = new System.Drawing.Point(66, 190);
+            this.dgvLibros.Location = new System.Drawing.Point(67, 211);
             this.dgvLibros.MultiSelect = false;
             this.dgvLibros.Name = "dgvLibros";
             this.dgvLibros.ReadOnly = true;
@@ -115,7 +115,7 @@
             this.grpInicio.Controls.Add(this.btnBuscarLibro);
             this.grpInicio.Controls.Add(this.txtBuscarLibro);
             this.grpInicio.Controls.Add(this.label1);
-            this.grpInicio.Location = new System.Drawing.Point(-1, 20);
+            this.grpInicio.Location = new System.Drawing.Point(0, 23);
             this.grpInicio.Name = "grpInicio";
             this.grpInicio.Size = new System.Drawing.Size(1022, 126);
             this.grpInicio.TabIndex = 8;
@@ -125,7 +125,7 @@
             // 
             this.btnActualizarCantidad.BackColor = System.Drawing.Color.Silver;
             this.btnActualizarCantidad.Font = new System.Drawing.Font("Segoe Print", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnActualizarCantidad.Location = new System.Drawing.Point(266, 597);
+            this.btnActualizarCantidad.Location = new System.Drawing.Point(267, 632);
             this.btnActualizarCantidad.Name = "btnActualizarCantidad";
             this.btnActualizarCantidad.Size = new System.Drawing.Size(240, 52);
             this.btnActualizarCantidad.TabIndex = 11;
@@ -136,7 +136,7 @@
             // 
             this.btnRecargar.BackColor = System.Drawing.Color.Silver;
             this.btnRecargar.Font = new System.Drawing.Font("Segoe Print", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRecargar.Location = new System.Drawing.Point(557, 597);
+            this.btnRecargar.Location = new System.Drawing.Point(558, 632);
             this.btnRecargar.Name = "btnRecargar";
             this.btnRecargar.Size = new System.Drawing.Size(199, 52);
             this.btnRecargar.TabIndex = 13;
@@ -147,7 +147,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1019, 720);
+            this.ClientSize = new System.Drawing.Size(1019, 737);
             this.Controls.Add(this.btnRecargar);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnActualizarCantidad);

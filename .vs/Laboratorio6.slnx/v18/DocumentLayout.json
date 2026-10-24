@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Laboratorio6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\hp\\source\\repos\\Laboratorio6\\laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\hp\\source\\repos\\laboratorio6\\laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\hp\\source\\repos\\Laboratorio6\\laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Laboratorio6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\hp\\source\\repos\\laboratorio6\\laboratorio6\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\hp\\source\\repos\\Laboratorio6\\laboratorio6\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\hp\\source\\repos\\Laboratorio6\\laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\hp\\source\\repos\\Laboratorio6\\laboratorio6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -36,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\hp\\source\\repos\\Laboratorio6\\laboratorio6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\hp\\source\\repos\\laboratorio6\\laboratorio6\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{0F6F80FB-6718-4836-9FA7-83A53ED5E176}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Laboratorio6\\Laboratorio6\\App.config",
               "RelativeDocumentMoniker": "Laboratorio6\\App.config",
@@ -90,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Laboratorio6\\Laboratorio6\\Program.cs",
               "RelativeDocumentMoniker": "Laboratorio6\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Laboratorio6\\Laboratorio6\\Program.cs",
               "RelativeToolTip": "Laboratorio6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T20:47:20.215Z"
             },
@@ -114,15 +110,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Laboratorio6",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Laboratorio6\\Laboratorio6\\Laboratorio6.csproj",
               "RelativeDocumentMoniker": "Laboratorio6\\Laboratorio6.csproj",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Laboratorio6\\Laboratorio6\\Laboratorio6.csproj",
               "RelativeToolTip": "Laboratorio6\\Laboratorio6.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-23T20:25:09.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T20:25:09.099Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "Laboratorio6\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T20:39:46.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T20:39:46.897Z"
             },
             {
               "$type": "Document",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "Laboratorio6\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T20:39:56.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T20:39:56.483Z"
             }
           ]
         }

@@ -70,6 +70,7 @@
             // txtTituloDeLibro
             // 
             this.txtTituloDeLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTituloDeLibro.ForeColor = System.Drawing.Color.Black;
             this.txtTituloDeLibro.Location = new System.Drawing.Point(177, 224);
             this.txtTituloDeLibro.MaxLength = 100;
             this.txtTituloDeLibro.Name = "txtTituloDeLibro";
@@ -79,6 +80,7 @@
             // txtAutor
             // 
             this.txtAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtAutor.ForeColor = System.Drawing.Color.Black;
             this.txtAutor.Location = new System.Drawing.Point(177, 312);
             this.txtAutor.MaxLength = 50;
             this.txtAutor.Name = "txtAutor";
@@ -112,11 +114,6 @@
             // nudCantidad
             // 
             this.nudCantidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nudCantidad.Increment = new decimal(new int[] {
-            0,
-            0,
-            0,
-            0});
             this.nudCantidad.Location = new System.Drawing.Point(442, 413);
             this.nudCantidad.Maximum = new decimal(new int[] {
             1000,
@@ -137,6 +134,7 @@
             this.btnGuardar.TabIndex = 17;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = false;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // btnCancelar
             // 
@@ -148,6 +146,7 @@
             this.btnCancelar.TabIndex = 20;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = false;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // groupBox1
             // 
@@ -174,6 +173,8 @@
             // cmbCategoria
             // 
             this.cmbCategoria.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbCategoria.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbCategoria.ForeColor = System.Drawing.Color.Black;
             this.cmbCategoria.FormattingEnabled = true;
             this.cmbCategoria.Items.AddRange(new object[] {
             "Novela",
@@ -183,7 +184,7 @@
             "Otros"});
             this.cmbCategoria.Location = new System.Drawing.Point(177, 416);
             this.cmbCategoria.Name = "cmbCategoria";
-            this.cmbCategoria.Size = new System.Drawing.Size(205, 24);
+            this.cmbCategoria.Size = new System.Drawing.Size(205, 28);
             this.cmbCategoria.TabIndex = 23;
             // 
             // Form2

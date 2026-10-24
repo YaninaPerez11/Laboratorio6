@@ -51,6 +51,7 @@
             this.btnEliminar.TabIndex = 12;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = false;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnAgregarLibro
             // 
@@ -62,6 +63,7 @@
             this.btnAgregarLibro.TabIndex = 10;
             this.btnAgregarLibro.Text = "Agregar";
             this.btnAgregarLibro.UseVisualStyleBackColor = false;
+            this.btnAgregarLibro.Click += new System.EventHandler(this.btnAgregarLibro_Click);
             // 
             // dgvLibros
             // 
@@ -94,6 +96,7 @@
             // 
             this.txtBuscarLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBuscarLibro.Location = new System.Drawing.Point(526, 61);
+            this.txtBuscarLibro.MaxLength = 100;
             this.txtBuscarLibro.Name = "txtBuscarLibro";
             this.txtBuscarLibro.Size = new System.Drawing.Size(263, 27);
             this.txtBuscarLibro.TabIndex = 4;
@@ -108,6 +111,7 @@
             this.btnBuscarLibro.TabIndex = 5;
             this.btnBuscarLibro.Text = "Buscar";
             this.btnBuscarLibro.UseVisualStyleBackColor = false;
+            this.btnBuscarLibro.Click += new System.EventHandler(this.btnBuscarLibro_Click);
             // 
             // grpInicio
             // 
@@ -131,6 +135,7 @@
             this.btnActualizarCantidad.TabIndex = 11;
             this.btnActualizarCantidad.Text = "Actualizar Cantidad";
             this.btnActualizarCantidad.UseVisualStyleBackColor = false;
+            this.btnActualizarCantidad.Click += new System.EventHandler(this.btnActualizarCantidad_Click);
             // 
             // btnRecargar
             // 
@@ -142,6 +147,7 @@
             this.btnRecargar.TabIndex = 13;
             this.btnRecargar.Text = "Mostrar Todos";
             this.btnRecargar.UseVisualStyleBackColor = false;
+            this.btnRecargar.Click += new System.EventHandler(this.btnRecargar_Click);
             // 
             // Form1
             // 
@@ -156,6 +162,7 @@
             this.Controls.Add(this.grpInicio);
             this.Name = "Form1";
             this.Text = "Inicio";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvLibros)).EndInit();
             this.grpInicio.ResumeLayout(false);
             this.grpInicio.PerformLayout();

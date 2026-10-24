@@ -85,3 +85,5 @@ C:\Users\hp\source\repos\Laboratorio6\Laboratorio6\bin\Debug\tr\Microsoft.Data.S
 C:\Users\hp\source\repos\Laboratorio6\Laboratorio6\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\hp\source\repos\Laboratorio6\Laboratorio6\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\hp\source\repos\Laboratorio6\Laboratorio6\obj\Debug\Laborato.4F579490.Up2Date
+C:\Users\hp\source\repos\Laboratorio6\Laboratorio6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Laboratorio6\Laboratorio6\bin\Debug\System.Data.SqlClient.xml
